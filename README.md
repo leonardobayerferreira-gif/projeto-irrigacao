@@ -1,0 +1,121 @@
+!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Meu Site Explicativo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f0f2f5;
+            margin: 0;
+            padding: 20px;
+            color: #333;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        header h1 {
+            font-size: 2.8rem;
+            color: #0077cc;
+        }
+
+        main {
+            max-width: 900px;
+            margin: 0 auto;
+            background: white;
+            padding: 20px 40px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+
+        section {
+            margin-bottom: 30px;
+        }
+
+        section h2 {
+            color: #0077cc;
+            margin-bottom: 15px;
+            border-bottom: 2px solid #0077cc;
+            padding-bottom: 5px;
+        }
+
+        section p {
+            line-height: 1.6;
+            font-size: 1.1rem;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-top: 15px;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 50px;
+            color: #555;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Projeto irrigação</h1>
+</header>
+
+<main>
+    <section>
+        <h2>O que é e como funciona </h2>
+        <p>
+            O projeto de irrigação é um projeto escolar para as irrigação da horta da nossa escola.Ele funcioina com uma caixa e uma bomba de agua tambem tem uma central aonde fica os códigos e nos usamos luz solar tambem.
+        </p>
+    </section>
+
+    <section>
+        <h2>imagens do projeto</h2>
+        <p>
+            Abaixo está um exemplo de imagem do nosso projeto peças e execução :
+        </p>
+        <img src="imagem/placasolar (2).jpg" alt="placasolar">
+    </section>
+
+    <img src="imagem/controle.jpg"   alt="controle">
+</section>
+
+<img src="imagem/bomba.jpg"   alt="bomba">
+</section>
+
+<img src="imagem/bateria.jpg"   alt="bateria">
+</section>
+    
+<img src="imagem/Astra TB1234 Boia CXAgua 1UN.png.jpg"   alt="Boia">
+</section>
+
+<img src="imagem/1000197924.jpg"   alt="montagem">
+</section>
+
+<img src="imagem/1000200957.jpg"   alt="horta">
+</section>
+
+
+<img src="imagem/1000197924.jpg"   alt="testando">
+</section>
+        <h2>esse foi nosso projeto </h2>
+        <p>
+            agora so alegria
+        </p>
+    </section>
+</main>
+
+<footer>
+    &copy; 2025 Meu Site Explicativo
+</footer>
+
+</body>
+</html>
